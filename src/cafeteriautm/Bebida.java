@@ -13,6 +13,7 @@ public class Bebida {
     byte precio;
     int mililitros;
     int stock;
+    String elpepe;
 
     
     public Bebida(int idBebida, String nombre, String sabor, byte precio, int mililitros, int stock) {
